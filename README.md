@@ -7,19 +7,19 @@
 ### Claude Code
 
 ```bash
-gh skill install sungwong/viral-title-breakdown viral-title-breakdown --agent claude-code --scope user
+npx skills add sungwong/viral-title-breakdown --skill viral-title-breakdown --agent claude-code -g -y
 ```
 
 ### Codex
 
 ```bash
-gh skill install sungwong/viral-title-breakdown viral-title-breakdown --agent codex --scope user
+npx skills add sungwong/viral-title-breakdown --skill viral-title-breakdown --agent codex -g -y
 ```
 
 ### OpenClaw
 
 ```bash
-gh skill install sungwong/viral-title-breakdown viral-title-breakdown --agent openclaw --scope user
+npx skills add sungwong/viral-title-breakdown --skill viral-title-breakdown --agent openclaw -g -y
 ```
 
 ## 使用
